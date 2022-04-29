@@ -31,5 +31,7 @@ This repository lists some awesome video object detection series projects.
 
   - [VidVRD](https://github.com/Dawn-LX/VidVRD-tracklets) <img src="https://img.shields.io/github/stars/Dawn-LX/VidVRD-tracklets?style=social"/> : "Video Relation Detection via Tracklet based Visual Transformer". (**[ACM 2021](https://arxiv.org/pdf/2108.08669.pdf)**)
 
+  - [DSFNet](https://github.com/ChaoXiao12/Moving-object-detection-DSFNet) <img src="https://img.shields.io/github/stars/ChaoXiao12/Moving-object-detection-DSFNet?style=social"/> : "DSFNet: Dynamic and Static Fusion Network for Moving Object Detection in Satellite Videos". (**[IEEE Geoscience and Remote Sensing Letters 2021](https://ieeexplore.ieee.org/abstract/document/9594855)**)
+  
   - [StreamYOLO](https://github.com/yancie-yjr/StreamYOLO) <img src="https://img.shields.io/github/stars/yancie-yjr/StreamYOLO?style=social"/> : "Real-time Object Detection for Streaming Perception". (**[CVPR 2022](https://arxiv.org/abs/2203.12338v1)**)
 
