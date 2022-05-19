@@ -21,9 +21,7 @@ This repository lists some awesome video object detection series projects.
 
   - [PyramidCSA](https://github.com/guyuchao/PyramidCSA) <img src="https://img.shields.io/github/stars/guyuchao/PyramidCSA?style=social"/> : "Pyramid constrained self-attention network for fast video salient object detection". (**[AAAI 2020](https://ojs.aaai.org/index.php/AAAI/article/view/6718)**)
 
-  - MAMBA: "MAMBA: Multi-level Aggregation via Memory Bank for Video Object Detection". (**[AAAI 2021](https://www.aaai.org/AAAI21Papers/AAAI-9815.SunG.pdf)**)
-
-  - [Duckduckgod/MAMBA](https://github.com/Duckduckgod/MAMBA) <img src="https://img.shields.io/github/stars/Duckduckgod/MAMBA?style=social"/> : Self implementation of AAAI21 paper MAMBA for video object detection. "MAMBA: Multi-level Aggregation via Memory Bank for Video Object Detection". (**[AAAI 2021](https://www.aaai.org/AAAI21Papers/AAAI-9815.SunG.pdf)**)
+  - [MAMBA](https://github.com/Duckduckgod/MAMBA) <img src="https://img.shields.io/github/stars/Duckduckgod/MAMBA?style=social"/> : Self implementation of AAAI21 paper MAMBA for video object detection. "MAMBA: Multi-level Aggregation via Memory Bank for Video Object Detection". (**[AAAI 2021](https://www.aaai.org/AAAI21Papers/AAAI-9815.SunG.pdf)**)
 
   - [Temporal RoI Align](https://github.com/open-mmlab/mmtracking) <img src="https://img.shields.io/github/stars/open-mmlab/mmtracking?style=social"/> : "Temporal ROI Align for Video Object Recognition. (**[AAAI 2021](https://www.aaai.org/AAAI21Papers/AAAI-3370.GongT.pdf)**)
 
