@@ -39,3 +39,4 @@ This repository lists some awesome video object detection series projects.
   
   - [StreamYOLO](https://github.com/yancie-yjr/StreamYOLO) <img src="https://img.shields.io/github/stars/yancie-yjr/StreamYOLO?style=social"/> : "Real-time Object Detection for Streaming Perception". (**[CVPR 2022](https://arxiv.org/abs/2203.12338v1)**)
 
+  - [SLT-Net](https://github.com/XuelianCheng/SLT-Net) <img src="https://img.shields.io/github/stars/XuelianCheng/SLT-Net?style=social"/> : "Implicit Motion Handling for Video Camouflaged Object Detection". (**[CVPR 2022](https://arxiv.org/abs/2203.07363)**)
