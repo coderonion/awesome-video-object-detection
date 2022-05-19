@@ -9,6 +9,8 @@ This repository lists some awesome video object detection series projects.
  
 ## Frameworks
 
+  - [NoScope](https://github.com/stanford-futuredata/noscope) <img src="https://img.shields.io/github/stars/stanford-futuredata/noscope?style=social"/> : "Noscope: optimizing neural network queries over video at scale". (**[arXiv 2017](https://arxiv.org/abs/1703.02529)**)
+  
   - FGFA: "Flow-Guided Feature Aggregation for Video Object Detection". (**[ICCV 2017](https://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Flow-Guided_Feature_Aggregation_ICCV_2017_paper.html)**)
 
   - RDN: "Relation Distillation Networks for Video Object Detection". (**[ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/html/Deng_Relation_Distillation_Networks_for_Video_Object_Detection_ICCV_2019_paper.html)**)
