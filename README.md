@@ -13,6 +13,8 @@ This repository lists some awesome video object detection series projects.
   
   - FGFA: "Flow-Guided Feature Aggregation for Video Object Detection". (**[ICCV 2017](https://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Flow-Guided_Feature_Aggregation_ICCV_2017_paper.html)**)
 
+  - SELSA: "Sequence level semantics aggregation for video object detection". (**[ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/html/Wu_Sequence_Level_Semantics_Aggregation_for_Video_Object_Detection_ICCV_2019_paper.html)**)
+
   - RDN: "Relation Distillation Networks for Video Object Detection". (**[ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/html/Deng_Relation_Distillation_Networks_for_Video_Object_Detection_ICCV_2019_paper.html)**)
 
   - [MEGA](https://github.com/Scalsol/mega.pytorch) <img src="https://img.shields.io/github/stars/Scalsol/mega.pytorch?style=social"/> : "Memory enhanced global-local aggregation for video object detection". (**[CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/html/Chen_Memory_Enhanced_Global-Local_Aggregation_for_Video_Object_Detection_CVPR_2020_paper.html)**)
@@ -20,6 +22,8 @@ This repository lists some awesome video object detection series projects.
   - [PyramidCSA](https://github.com/guyuchao/PyramidCSA) <img src="https://img.shields.io/github/stars/guyuchao/PyramidCSA?style=social"/> : "Pyramid constrained self-attention network for fast video salient object detection". (**[AAAI 2020](https://ojs.aaai.org/index.php/AAAI/article/view/6718)**)
 
   - MAMBA: "MAMBA: Multi-level Aggregation via Memory Bank for Video Object Detection". (**[AAAI 2021](https://www.aaai.org/AAAI21Papers/AAAI-9815.SunG.pdf)**)
+
+  - [Duckduckgod/MAMBA](https://github.com/Duckduckgod/MAMBA) <img src="https://img.shields.io/github/stars/Duckduckgod/MAMBA?style=social"/> : Self implementation of AAAI21 paper MAMBA for video object detection. "MAMBA: Multi-level Aggregation via Memory Bank for Video Object Detection". (**[AAAI 2021](https://www.aaai.org/AAAI21Papers/AAAI-9815.SunG.pdf)**)
 
   - [Temporal RoI Align](https://github.com/open-mmlab/mmtracking) <img src="https://img.shields.io/github/stars/open-mmlab/mmtracking?style=social"/> : "Temporal ROI Align for Video Object Recognition. (**[AAAI 2021](https://www.aaai.org/AAAI21Papers/AAAI-3370.GongT.pdf)**)
 
