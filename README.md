@@ -39,6 +39,8 @@ This repository lists some awesome video object detection series projects.
 
   - [MAMBA](https://github.com/Duckduckgod/MAMBA) <img src="https://img.shields.io/github/stars/Duckduckgod/MAMBA?style=social"/> : Self implementation of AAAI21 paper MAMBA for video object detection. "MAMBA: Multi-level Aggregation via Memory Bank for Video Object Detection". (**[AAAI 2021](https://www.aaai.org/AAAI21Papers/AAAI-9815.SunG.pdf)**)
 
+  - [STFT](https://github.com/lingyunwu14/STFT) <img src="https://img.shields.io/github/stars/lingyunwu14/STFT?style=social"/> : "Multi-frame Collaboration for Effective Endoscopic Video Polyp Detection via Spatial-Temporal Feature Transformation". (**[MICCAI 2021](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_29)**)
+
   - [TAdaConv](https://github.com/alibaba-mmai-research/TAdaConv) <img src="https://img.shields.io/github/stars/alibaba-mmai-research/TAdaConv?style=social"/> : "TAda! Temporally-Adaptive Convolutions for Video Understanding". (**[ICLR 2022](https://arxiv.org/abs/2110.06178)**)
 
   - [TCTrack](https://github.com/vision4robotics/TCTrack) <img src="https://img.shields.io/github/stars/vision4robotics/TCTrack?style=social"/> : "TCTrack: Temporal Contexts for Aerial Tracking". (**[CVPR 2022](https://arxiv.org/abs/2203.01885)**)
