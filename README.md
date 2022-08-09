@@ -5,21 +5,42 @@
 
 ## Contents
 - [Awesome-Video-Object-Detection](#awesome-anchor-free-object-detection)
-    - [Frameworks](#frameworks)
- 
+  - [Summary](#summary)
+    - [Awesome List](#awesome-list)
+  - [Frameworks](#frameworks)
+
+- ## Summary
+
+  - ### Awesome List
+
+    - [zhanghengdev/awesome-video-object-detection](https://github.com/zhanghengdev/awesome-video-object-detection) <img src="https://img.shields.io/github/stars/zhanghengdev/awesome-video-object-detection?style=social"/> : This is a list of awesome articles about object detection from video. 
+
+    - [junliang230/video_object_detection_paper](https://github.com/junliang230/video_object_detection_paper) <img src="https://img.shields.io/github/stars/junliang230/video_object_detection_paper?style=social"/> : record some video object detection papers and dataset (视频目标检测论文整理).
+
+
 ## Frameworks
 
   - [NoScope](https://github.com/stanford-futuredata/noscope) <img src="https://img.shields.io/github/stars/stanford-futuredata/noscope?style=social"/> : "Noscope: optimizing neural network queries over video at scale". (**[arXiv 2017](https://arxiv.org/abs/1703.02529)**)
   
-  - FGFA: "Flow-Guided Feature Aggregation for Video Object Detection". (**[ICCV 2017](https://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Flow-Guided_Feature_Aggregation_ICCV_2017_paper.html)**)
+  - [FGFA](https://github.com/msracver/Flow-Guided-Feature-Aggregation) <img src="https://img.shields.io/github/stars/msracver/Flow-Guided-Feature-Aggregation?style=social"/> : "Flow-Guided Feature Aggregation for Video Object Detection". (**[ICCV 2017](https://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Flow-Guided_Feature_Aggregation_ICCV_2017_paper.html)**)
 
-  - SELSA: "Sequence level semantics aggregation for video object detection". (**[ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/html/Wu_Sequence_Level_Semantics_Aggregation_for_Video_Object_Detection_ICCV_2019_paper.html)**)
+  - [STSN](https://github.com/lyj96/STSN) <img src="https://img.shields.io/github/stars/lyj96/STSN?style=social"/> : "Object Detection in Video with Spatiotemporal Sampling Networks". (**[ECCV 2018](https://openaccess.thecvf.com/content_ECCV_2018/html/Gedas_Bertasius_Object_Detection_in_ECCV_2018_paper.html)**)
+
+  - [MANet](https://github.com/wangshy31/MANet_for_Video_Object_Detection) <img src="https://img.shields.io/github/stars/wangshy31/MANet_for_Video_Object_Detection?style=social"/> : "Fully Motion-Aware Network for Video Object Detection". (**[ECCV 2018](https://openaccess.thecvf.com/content_ECCV_2018/html/Shiyao_Wang_Fully_Motion-Aware_Network_ECCV_2018_paper.html)**)
 
   - RDN: "Relation Distillation Networks for Video Object Detection". (**[ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/html/Deng_Relation_Distillation_Networks_for_Video_Object_Detection_ICCV_2019_paper.html)**)
+
+  - [MGA](https://github.com/lhaof/Motion-Guided-Attention) <img src="https://img.shields.io/github/stars/lhaof/Motion-Guided-Attention?style=social"/> : "Motion Guided Attention for Video Salient Object Detection". (**[ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/html/Li_Motion_Guided_Attention_for_Video_Salient_Object_Detection_ICCV_2019_paper.html)**)
+
+  - [SELSA](https://github.com/happywu/Sequence-Level-Semantics-Aggregation) <img src="https://img.shields.io/github/stars/happywu/Sequence-Level-Semantics-Aggregation?style=social"/> : "Sequence level semantics aggregation for video object detection". (**[ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/html/Wu_Sequence_Level_Semantics_Aggregation_for_Video_Object_Detection_ICCV_2019_paper.html)**)
+
+  - [LSTS](https://github.com/jiangzhengkai/LSTS) <img src="https://img.shields.io/github/stars/jiangzhengkai/LSTS?style=social"/> : "Learning Where to Focus for Efficient Video Object Detection". (**[ECCV 2020](https://link.springer.com/chapter/10.1007/978-3-030-58517-4_2)**)
 
   - [MEGA](https://github.com/Scalsol/mega.pytorch) <img src="https://img.shields.io/github/stars/Scalsol/mega.pytorch?style=social"/> : "Memory enhanced global-local aggregation for video object detection". (**[CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/html/Chen_Memory_Enhanced_Global-Local_Aggregation_for_Video_Object_Detection_CVPR_2020_paper.html)**)
 
   - [PyramidCSA](https://github.com/guyuchao/PyramidCSA) <img src="https://img.shields.io/github/stars/guyuchao/PyramidCSA?style=social"/> : "Pyramid constrained self-attention network for fast video salient object detection". (**[AAAI 2020](https://ojs.aaai.org/index.php/AAAI/article/view/6718)**)
+
+  - [FFAVOD](https://github.com/hu64/FFAVOD) <img src="https://img.shields.io/github/stars/hu64/FFAVOD?style=social"/> : "FFAVOD: Feature fusion architecture for video object detection". (**[Pattern Recognition Letters, 2021](https://www.sciencedirect.com/science/article/abs/pii/S016786552100307X)**)
 
   - [STMTrack](https://github.com/fzh0917/STMTrack) <img src="https://img.shields.io/github/stars/fzh0917/STMTrack?style=social"/> : "STMTrack: Template-free Visual Tracking with Space-time Memory Networks". (**[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Fu_STMTrack_Template-Free_Visual_Tracking_With_Space-Time_Memory_Networks_CVPR_2021_paper.html)**)
 
@@ -48,3 +69,5 @@
   - [SLT-Net](https://github.com/XuelianCheng/SLT-Net) <img src="https://img.shields.io/github/stars/XuelianCheng/SLT-Net?style=social"/> : "Implicit Motion Handling for Video Camouflaged Object Detection". (**[CVPR 2022](https://arxiv.org/abs/2203.07363)**)
 
   - [StreamYOLO](https://github.com/yancie-yjr/StreamYOLO) <img src="https://img.shields.io/github/stars/yancie-yjr/StreamYOLO?style=social"/> : "Real-time Object Detection for Streaming Perception". (**[CVPR 2022](https://arxiv.org/abs/2203.12338v1)**)
+
+  - [suyukun666/UFO](https://github.com/suyukun666/UFO) <img src="https://img.shields.io/github/stars/suyukun666/UFO?style=social"/> : "A Unified Transformer Framework for Group-based Segmentation: Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection". (**[arXiv 2022](https://arxiv.org/abs/2203.04708)**)
