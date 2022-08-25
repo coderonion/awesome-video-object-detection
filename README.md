@@ -71,3 +71,5 @@
   - [StreamYOLO](https://github.com/yancie-yjr/StreamYOLO) <img src="https://img.shields.io/github/stars/yancie-yjr/StreamYOLO?style=social"/> : "Real-time Object Detection for Streaming Perception". (**[CVPR 2022](https://arxiv.org/abs/2203.12338v1)**)
 
   - [suyukun666/UFO](https://github.com/suyukun666/UFO) <img src="https://img.shields.io/github/stars/suyukun666/UFO?style=social"/> : "A Unified Transformer Framework for Group-based Segmentation: Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection". (**[arXiv 2022](https://arxiv.org/abs/2203.04708)**)
+
+  - [YOLOV](https://github.com/YuHengsss/YOLOV) <img src="https://img.shields.io/github/stars/YuHengsss/YOLOV?style=social"/> : "YOLOV: Making Still Image Object Detectors Great at Video Object Detection". (**[arXiv 2022](https://arxiv.org/abs/2208.09686)**)
