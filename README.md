@@ -40,6 +40,8 @@
 
   - [PyramidCSA](https://github.com/guyuchao/PyramidCSA) <img src="https://img.shields.io/github/stars/guyuchao/PyramidCSA?style=social"/> : "Pyramid constrained self-attention network for fast video salient object detection". (**[AAAI 2020](https://ojs.aaai.org/index.php/AAAI/article/view/6718)**)
 
+  - [REPP](https://github.com/AlbertoSabater/Robust-and-efficient-post-processing-for-video-object-detection) <img src="https://img.shields.io/github/stars/AlbertoSabater/Robust-and-efficient-post-processing-for-video-object-detection?style=social"/> : "Robust and efficient post-processing for video object detection". (**[IROS 2020](https://ieeexplore.ieee.org/abstract/document/9341600)**)
+
   - [FFAVOD](https://github.com/hu64/FFAVOD) <img src="https://img.shields.io/github/stars/hu64/FFAVOD?style=social"/> : "FFAVOD: Feature fusion architecture for video object detection". (**[Pattern Recognition Letters, 2021](https://www.sciencedirect.com/science/article/abs/pii/S016786552100307X)**)
 
   - [STMTrack](https://github.com/fzh0917/STMTrack) <img src="https://img.shields.io/github/stars/fzh0917/STMTrack?style=social"/> : "STMTrack: Template-free Visual Tracking with Space-time Memory Networks". (**[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Fu_STMTrack_Template-Free_Visual_Tracking_With_Space-Time_Memory_Networks_CVPR_2021_paper.html)**)
