@@ -36,6 +36,8 @@
 
   - [LSTS](https://github.com/jiangzhengkai/LSTS) <img src="https://img.shields.io/github/stars/jiangzhengkai/LSTS?style=social"/> : "Learning Where to Focus for Efficient Video Object Detection". (**[ECCV 2020](https://link.springer.com/chapter/10.1007/978-3-030-58517-4_2)**)
 
+  - [HVR-Net](https://github.com/youthHan/HVRNet) <img src="https://img.shields.io/github/stars/youthHan/HVRNet?style=social"/> : "Mining Inter-Video Proposal Relations for Video Object Detection". (**[ECCV 2020](https://link.springer.com/chapter/10.1007/978-3-030-58589-1_26)**)
+
   - [MEGA](https://github.com/Scalsol/mega.pytorch) <img src="https://img.shields.io/github/stars/Scalsol/mega.pytorch?style=social"/> : "Memory enhanced global-local aggregation for video object detection". (**[CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/html/Chen_Memory_Enhanced_Global-Local_Aggregation_for_Video_Object_Detection_CVPR_2020_paper.html)**)
 
   - [PyramidCSA](https://github.com/guyuchao/PyramidCSA) <img src="https://img.shields.io/github/stars/guyuchao/PyramidCSA?style=social"/> : "Pyramid constrained self-attention network for fast video salient object detection". (**[AAAI 2020](https://ojs.aaai.org/index.php/AAAI/article/view/6718)**)
@@ -48,7 +50,7 @@
 
   - [TraDeS](https://github.com/JialianW/TraDeS) <img src="https://img.shields.io/github/stars/JialianW/TraDeS?style=social"/> : "Track to Detect and Segment: An Online Multi-Object Tracker". (**[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Wu_Track_To_Detect_and_Segment_An_Online_Multi-Object_Tracker_CVPR_2021_paper.html)**)
 
-  - [Temporal RoI Align](https://github.com/open-mmlab/mmtracking) <img src="https://img.shields.io/github/stars/open-mmlab/mmtracking?style=social"/> : "Temporal ROI Align for Video Object Recognition. (**[AAAI 2021](https://www.aaai.org/AAAI21Papers/AAAI-3370.GongT.pdf)**)
+  - [TROIA](https://github.com/open-mmlab/mmtracking) <img src="https://img.shields.io/github/stars/open-mmlab/mmtracking?style=social"/> : "Temporal ROI Align for Video Object Recognition". (**[AAAI 2021](https://www.aaai.org/AAAI21Papers/AAAI-3370.GongT.pdf)**)
 
   - MeGA-CDA: "MeGA-CDA: Memory Guided Attention for Category-Aware Unsupervised Domain Adaptive Object Detection". (**[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/VS_MeGA-CDA_Memory_Guided_Attention_for_Category-Aware_Unsupervised_Domain_Adaptive_Object_CVPR_2021_paper.html)**)
 
@@ -73,5 +75,7 @@
   - [StreamYOLO](https://github.com/yancie-yjr/StreamYOLO) <img src="https://img.shields.io/github/stars/yancie-yjr/StreamYOLO?style=social"/> : "Real-time Object Detection for Streaming Perception". (**[CVPR 2022](https://arxiv.org/abs/2203.12338v1)**)
 
   - [suyukun666/UFO](https://github.com/suyukun666/UFO) <img src="https://img.shields.io/github/stars/suyukun666/UFO?style=social"/> : "A Unified Transformer Framework for Group-based Segmentation: Co-Segmentation, Co-Saliency Detection and Video Salient Object Detection". (**[arXiv 2022](https://arxiv.org/abs/2203.04708)**)
+
+  - QueryProp: "QueryProp: Object Query Propagation for High-Performance Video Object Detection". (**[AAAI 2022](https://www.aaai.org/AAAI22Papers/AAAI-471.HeF.pdf)**)
 
   - [YOLOV](https://github.com/YuHengsss/YOLOV) <img src="https://img.shields.io/github/stars/YuHengsss/YOLOV?style=social"/> : "YOLOV: Making Still Image Object Detectors Great at Video Object Detection". (**[arXiv 2022](https://arxiv.org/abs/2208.09686)**)
