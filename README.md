@@ -58,6 +58,8 @@
 
   - [TransVOD](https://github.com/SJTU-LuHe/TransVOD) <img src="https://img.shields.io/github/stars/SJTU-LuHe/TransVOD?style=social"/> : "End-to-End Video Object Detection with Spatial-Temporal Transformers". (**[ACM 2021](https://arxiv.org/pdf/2105.10920.pdf)**)
 
+  - [qianyuzqy/TransVOD_Lite](https://github.com/qianyuzqy/TransVOD_Lite) <img src="https://img.shields.io/github/stars/qianyuzqy/TransVOD_Lite?style=social"/> : (TPAMI 2023) TransVOD:End-to-End Video Object Detection with Spatial-Temporal Transformers (implementations of TransVOD Lite). 
+
   - [VidVRD](https://github.com/Dawn-LX/VidVRD-tracklets) <img src="https://img.shields.io/github/stars/Dawn-LX/VidVRD-tracklets?style=social"/> : "Video Relation Detection via Tracklet based Visual Transformer". (**[ACM 2021](https://arxiv.org/pdf/2108.08669.pdf)**)
 
   - [DSFNet](https://github.com/ChaoXiao12/Moving-object-detection-DSFNet) <img src="https://img.shields.io/github/stars/ChaoXiao12/Moving-object-detection-DSFNet?style=social"/> : "DSFNet: Dynamic and Static Fusion Network for Moving Object Detection in Satellite Videos". (**[IEEE Geoscience and Remote Sensing Letters 2021](https://ieeexplore.ieee.org/abstract/document/9594855)**)
